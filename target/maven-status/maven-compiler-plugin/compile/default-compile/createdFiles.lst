@@ -1,0 +1,10 @@
+com\example\logindemo\controller\TestController.class
+com\example\logindemo\model\AuthRequest.class
+com\example\logindemo\filter\JwtAuthFilter.class
+com\example\logindemo\util\JwtUtil.class
+com\example\logindemo\service\UserService.class
+com\example\logindemo\config\SecurityConfig.class
+com\example\logindemo\controller\AuthController.class
+com\example\logindemo\model\AuthResponse.class
+com\example\logindemo\config\SwaggerConfig.class
+com\example\logindemo\LogindemoApplication.class
